@@ -1,0 +1,3 @@
+1. first you have to import the vms.sql file through "localhost/phpmyadmin" 
+2. then run the reportParticipation.php , TeacherFinal.php ,telephoneList.php files through localhost.
+3. search 26.01.2016 day.
